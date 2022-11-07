@@ -291,7 +291,7 @@ int clearBoardingQueue(BoardingQueue *qPtr)
 
 	// free the queue itself once all the passengers have been freed
 	free(qPtr);
-
+	
 	return SUCCESS;
 }
 

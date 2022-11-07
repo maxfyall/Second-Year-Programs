@@ -161,9 +161,9 @@ int main()
 	}
 
 // Extra Marks Method Testing
-
 	createBoardingQueue(&qPtr);
-		// add a passenger to the end / tail of the queue
+
+	// add a passenger to the end / tail of the queue
 	char passengerName3[] = "C. Jones";
 	double passportNumber3 = 12;
 	int seatNumber3 = 87;
